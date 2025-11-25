@@ -6,3 +6,6 @@
 <img width="857" height="857" alt="dino_thum" src="https://github.com/user-attachments/assets/ec1392f9-d7ae-4df1-9c05-ae4b5b6ba04b" />
 ![mumu_thum](https://github.com/user-attachments/assets/f1c33710-86a8-44b8-bb54-9d720c0dee0e)
 ![mumu_middle](https://github.com/user-attachments/assets/0c8aa349-6836-4ee0-bd76-cca2a87b4db8)
+![mang_thum](https://github.com/user-attachments/assets/495c0697-9f9b-49f3-a76b-7f5d1598127a)
+<img width="1512" height="604" alt="mang_present" src="https://github.com/user-attachments/assets/0777ac4a-a712-434c-8a33-3b3ad322e258" />
+![mang_middle](https://github.com/user-attachments/assets/b0aac636-9cef-43c0-9653-e448d818fa85)
