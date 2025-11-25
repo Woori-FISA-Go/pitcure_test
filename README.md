@@ -1,3 +1,6 @@
 # pitcure_test
 ![dianoteang_middle](https://github.com/user-attachments/assets/7220e59a-26dc-49e5-abcd-1588523938a1)
 ![momo_middle](https://github.com/user-attachments/assets/8d60dc52-9068-4717-8b12-4794dc07e5fe)
+<img width="1511" height="604" alt="momo_present" src="https://github.com/user-attachments/assets/7d03b52f-2a64-4afe-b285-99dc7c75932b" />
+<img width="1512" height="604" alt="dino_present" src="https://github.com/user-attachments/assets/faa1ff77-f39b-4110-9723-cad6407066fd" />
+<img width="857" height="857" alt="dino_thum" src="https://github.com/user-attachments/assets/ec1392f9-d7ae-4df1-9c05-ae4b5b6ba04b" />
